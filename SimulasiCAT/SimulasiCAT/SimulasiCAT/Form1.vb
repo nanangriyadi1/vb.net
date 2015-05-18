@@ -552,7 +552,7 @@ Public Class Ujian
 
   End Sub
 
-
+    'tambah
   Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSebelumnya.Click
     Dim ket As String = nilai(0)
     'jika belum memeilih nomor soal
